@@ -16,9 +16,9 @@ VERSÃO ATUAL - 0.4
 
 - Mudanças visuais na planilha de consulta;
 - Inserção de consulta por Editora;
-  -> Também foram implementados mais campos para exibição do resultados da consulta.
+  - Também foram implementados mais campos para exibição do resultados da consulta.
 - Validação de dados com intervalos dinâmicos implementadas (uso das Funções DESLOC e CONT.Valores).
-  -> Agora as listas suspensas para seleção de título, assunto, autor, país de origem e editora da aba de consultas
+  - Agora as listas suspensas para seleção de título, assunto, autor, país de origem e editora da aba de consultas
   atualizam automaticamente conforme inserção de novos dados na base de dados. Limite atual de até 5000 linhas, mas
   facilmente modificável.
   (Obs: contudo, ainda é necessário que as tabelas dinâmicas sejam atualizadas.)
