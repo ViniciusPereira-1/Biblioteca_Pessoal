@@ -19,7 +19,7 @@ VERSÃO ATUAL - 0.4
   - Também foram implementados mais campos para exibição do resultados da consulta.
 - Validação de dados com intervalos dinâmicos implementadas (uso das Funções DESLOC e CONT.Valores).
   - Agora as listas suspensas para seleção de título, assunto, autor, país de origem e editora da aba de consultas atualizam automaticamente conforme inserção de novos dados na base de dados. Limite atual de até 5000 linhas, mas facilmente modificável.
-  (Obs: contudo, ainda é necessário que as tabelas dinâmicas sejam atualizadas.)
+  (Obs: Ainda é necessário que as tabelas dinâmicas sejam atualizadas.)
 
 0.3 - Teste de compatibilidade
 
