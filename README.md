@@ -6,7 +6,7 @@ A catalogação e classificação aqui utilizadas são simplificadas para fins d
 
 Há limitações de acesso ao software na construção desse arquivo (utilização apenas do Excel Online disponibilizado para estudantes).
 
-Resumo de funções utilizadas: ÍNDICE, SE, SEERRO, PROCV, MENOR, DESLOC, CONT.VALORES
+Resumo de funções utilizadas: ÍNDICE, SE, SEERRO, PROCV, MENOR, DESLOC, CONT.VALORES.
 ________________________________________________________________________________________________________________________________________________________
 
 VERSÃO ATUAL - 1.0
@@ -16,9 +16,6 @@ VERSÃO ATUAL - 1.0
 - Todas as obras foram inseridas.
 - Todas as funções essenciais foram programadas e testadas.
 - Inserção de classificação condicional para os dados incertos na base de dados (contém a expressão (?) ), ressaltando-as através de uma borda vermelha.
-
-- Ideias para o futuro:
-criação de dashboard de informações (no Libreoffice Calc ou no Excel 2007).
 
 0.4 - Validação de Dados
 
