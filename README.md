@@ -1,4 +1,4 @@
-# Biblioteca_Pessoal
+# Biblioteca_Pessoal - VERSÃO ATUAL - 1.1
 Aplicação de conceitos de Excel voltada a um acervo pessoal.
 
 Este arquivo é a primeira tentativa do uso conhecimentos básicos e intermediários do Excel, visando uma aplicação prática dentro da BCI.
@@ -9,7 +9,7 @@ Há limitações de acesso ao software na construção desse arquivo (utilizaç�
 Resumo de funções utilizadas: ÍNDICE, SE, SEERRO, PROCV, MENOR, DESLOC, CONT.VALORES.
 ________________________________________________________________________________________________________________________________________________________
 
-VERSÃO ATUAL - 1.1
+
 
 1.1 - Implementação de informações gerais
 
@@ -18,12 +18,14 @@ VERSÃO ATUAL - 1.1
   - Uso da função SE no caso de coleções para eliminar o "n/a" caso este seja o dado com maior prevalência, mostrando então o segundo valor.
 - Ajuste nas indicações de autoria (exemplo: Coordernadação de NOME ajustado para NOME (coord.)).
 
+________________________________________________________________________________________________________________________________________________________
 1.0 - Acervo funcional
 
 - Todas as obras foram inseridas.
 - Todas as funções essenciais foram programadas e testadas.
 - Inserção de classificação condicional para os dados incertos na base de dados (contém a expressão (?) ), ressaltando-as através de uma borda vermelha.
 
+________________________________________________________________________________________________________________________________________________________
 0.4 - Validação de Dados
 
 - Mudanças visuais na planilha de consulta;
@@ -32,7 +34,8 @@ VERSÃO ATUAL - 1.1
 - Validação de dados com intervalos dinâmicos implementadas (uso das Funções DESLOC e CONT.Valores).
   - Agora as listas suspensas para seleção de título, assunto, autor, país de origem e editora da aba de consultas atualizam automaticamente conforme inserção de novos dados na base de dados. Limite atual de até 5000 linhas, mas facilmente modificável.
   (Obs: Ainda é necessário que as tabelas dinâmicas sejam atualizadas.)
-
+  
+________________________________________________________________________________________________________________________________________________________
 0.3 - Teste de compatibilidade
 
 - Inserção da consulta por País da Obra Original;
@@ -40,11 +43,13 @@ VERSÃO ATUAL - 1.1
 corretamente.
 - Inserção de mais obras na base de dados;
 
+________________________________________________________________________________________________________________________________________________________
 0.2 - Aplicação prática de funções
 - Inserção de mais obras na base de dados;
 - Mudanças visuais (maior clareza e usabilidade);
 - Inserção da possibilidade de consulta de obras por Assunto e Autor (uso das funções ÍNDICE, SE e MENOR);
-
+_____________________________________________________________________________________________________________
+___________________________________________
 0.1 - Inicial
 - Aplicação básicas de formatação de tabelas, intervalos e validação de dados;
 - Construção da base dados inicial;
