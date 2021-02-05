@@ -8,7 +8,6 @@ Há limitações de acesso ao software na construção desse arquivo (utilizaç�
 
 Resumo de funções utilizadas: ÍNDICE, SE, SEERRO, PROCV, MENOR, DESLOC, CONT.VALORES.
 ________________________________________________________________________________________________________________________________________________________
-
 ###### **1.1 - Implementação de informações gerais**
 
 - Mais mudanças visuais (Clareza na funcionalidade);
