@@ -8,7 +8,7 @@ Há limitações de acesso ao software na construção desse arquivo (utilizaç�
 Resumo de funções utilizadas: ÍNDICE, SE, SEERRO, PROCV, MENOR, DESLOC, CONT.VALORES.
 ________________________________________________________________________________________________________________________________________________________
 ### VERSÃO ATUAL
-###**1.11 - Ajustes, bugfixes e compatibilidade com o Calc**
+### **1.11 - Ajustes, bugfixes e compatibilidade com o Calc**
 
 - Reformulação da forma de cálculo das informações gerais: agora utiliza as funções MAIOR/MENOR e ÍNDICE para retornar os valores mais presentes, não fazendo referência apenas à célula da tabela dinâmica.
   - Agora, os dados são exibidos corretamente, independente da forma de classificação da tabela dinâmica.
