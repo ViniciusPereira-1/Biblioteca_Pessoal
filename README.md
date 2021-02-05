@@ -14,6 +14,7 @@ ________________________________________________________________________________
   - Isto também permitiu a inserção a exibição dos valores menos presentes (necessita de bugfix apenas no de "ano com menos obras");
   - Obs: A função DESLOC é utilizada pois o Excel Online não permite a nomeação de intervalos.
   
+  
 - Bugfix nas funções de busca (maior intervalo na função ÍNDICE e ajuste de funções LIN indefinidas);
 
 - Teste de compatibilidade com Libreoffice Calc -> as tabelas dinâmicas **NÃO** são mais compatíveis, pois o intervalo não acompanha o crescimento da base de dados, inviabilizando a planilha como um todo.
@@ -38,8 +39,12 @@ ________________________________________________________________________________
 - Mudanças visuais na planilha de consulta;
 - Inserção de consulta por Editora;
   - Também foram implementados mais campos para exibição do resultados da consulta.
+  
+  
 - Validação de dados com intervalos dinâmicos implementadas (uso das Funções DESLOC e CONT.Valores).
   - Agora as listas suspensas para seleção de título, assunto, autor, país de origem e editora da aba de consultas atualizam automaticamente conforme inserção de novos dados na base de dados. Limite atual de até 5000 linhas, mas facilmente modificável.
+  
+  
   (Obs: Ainda é necessário que as tabelas dinâmicas sejam atualizadas.)
   
 #### **0.3 - Teste de compatibilidade**
