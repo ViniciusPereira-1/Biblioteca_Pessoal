@@ -7,7 +7,8 @@ Há limitações de acesso ao software na construção desse arquivo (utilizaç�
 
 Resumo de funções utilizadas: ÍNDICE, SE, SEERRO, PROCV, MENOR, DESLOC, CONT.VALORES.
 ________________________________________________________________________________________________________________________________________________________
-#### **1.11 - Ajustes, bugfixes e compatibilidade com o Calc**
+### VERSÃO ATUAL
+###**1.11 - Ajustes, bugfixes e compatibilidade com o Calc**
 
 - Reformulação da forma de cálculo das informações gerais: agora utiliza as funções MAIOR/MENOR e ÍNDICE para retornar os valores mais presentes, não fazendo referência apenas à célula da tabela dinâmica.
   - Agora, os dados são exibidos corretamente, independente da forma de classificação da tabela dinâmica.
@@ -18,6 +19,8 @@ ________________________________________________________________________________
 
 - Teste de compatibilidade com Libreoffice Calc -> as tabelas dinâmicas **NÃO** são mais compatíveis, pois o intervalo não acompanha o crescimento da base de dados, inviabilizando a planilha como um todo.
   - A compatibilidade é possível, mas necessita de ajustes (nomeação de intervalo da BD, etc), que são bem diferentes em ambos os softwares.
+  
+________________________________________________________________________________________________________________________________________________________
 
 #### **1.1 - Implementação de informações gerais**
 
