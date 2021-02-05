@@ -21,7 +21,7 @@ ________________________________________________________________________________
   - A compatibilidade é possível, mas necessita de ajustes (nomeação de intervalo da BD, etc), que são bem diferentes em ambos os softwares.
   
 ________________________________________________________________________________________________________________________________________________________
-
+### HISTÓRICO
 #### **1.1 - Implementação de informações gerais**
 
 - Mais mudanças visuais (Clareza na funcionalidade);
