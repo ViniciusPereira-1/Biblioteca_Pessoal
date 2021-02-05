@@ -11,7 +11,7 @@ ________________________________________________________________________________
 
 
 
-1.1 - Implementação de informações gerais
+###### **1.1 - Implementação de informações gerais**
 
 - Mais mudanças visuais (Clareza na funcionalidade);
 - Inserção de uma resumo de informações gerais do acervo, como número de obras, de autores e editoras; assunto mais comum, autores mais prominentes e etc.
@@ -19,14 +19,14 @@ ________________________________________________________________________________
 - Ajuste nas indicações de autoria (exemplo: Coordernadação de NOME ajustado para NOME (coord.)).
 
 ________________________________________________________________________________________________________________________________________________________
-1.0 - Acervo funcional
+###### ** 1.0 - Acervo funcional**
 
 - Todas as obras foram inseridas.
 - Todas as funções essenciais foram programadas e testadas.
 - Inserção de classificação condicional para os dados incertos na base de dados (contém a expressão (?) ), ressaltando-as através de uma borda vermelha.
 
 ________________________________________________________________________________________________________________________________________________________
-0.4 - Validação de Dados
+###### ** 0.4 - Validação de Dados**
 
 - Mudanças visuais na planilha de consulta;
 - Inserção de consulta por Editora;
@@ -36,7 +36,7 @@ ________________________________________________________________________________
   (Obs: Ainda é necessário que as tabelas dinâmicas sejam atualizadas.)
   
 ________________________________________________________________________________________________________________________________________________________
-0.3 - Teste de compatibilidade
+###### ** 0.3 - Teste de compatibilidade**
 
 - Inserção da consulta por País da Obra Original;
 - Teste de compatibilidade com LibreOffice Calc -> Todas as funções, tabelas dinâmicas e validações estão funcionando 
@@ -44,12 +44,12 @@ corretamente.
 - Inserção de mais obras na base de dados;
 
 ________________________________________________________________________________________________________________________________________________________
-0.2 - Aplicação prática de funções
+###### ** 0.2 - Aplicação prática de funções**
 - Inserção de mais obras na base de dados;
 - Mudanças visuais (maior clareza e usabilidade);
 - Inserção da possibilidade de consulta de obras por Assunto e Autor (uso das funções ÍNDICE, SE e MENOR);
 _____________________________________________________________________________________________________________
-0.1 - Inicial
+###### **0.1 - Inicial**
 - Aplicação básicas de formatação de tabelas, intervalos e validação de dados;
 - Construção da base dados inicial;
 - Consulta de informações das obras (Função PROCV);
