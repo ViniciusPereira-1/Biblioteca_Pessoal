@@ -5,7 +5,7 @@ Este arquivo é a primeira tentativa do uso conhecimentos básicos e intermediá
 A catalogação e classificação aqui utilizadas são simplificadas para fins de prática de ferramentas do excel.
 Há limitações de acesso ao software na construção desse arquivo (utilização apenas do Excel Online disponibilizado para estudantes).
 
-Resumo de funções utilizadas: ÍNDICE, SE, SEERRO, PROCV, MENOR, DESLOC, CONT.VALORES.
+Resumo de funções utilizadas: ÍNDICE, SE, SEERRO, PROCV, MENOR, MAIOR, DESLOC, CONT.VALORES.
 ________________________________________________________________________________________________________________________________________________________
 ### VERSÃO ATUAL
 ### **1.11 - Ajustes, bugfixes e compatibilidade com o Calc**
