@@ -49,7 +49,6 @@ ________________________________________________________________________________
 - Mudanças visuais (maior clareza e usabilidade);
 - Inserção da possibilidade de consulta de obras por Assunto e Autor (uso das funções ÍNDICE, SE e MENOR);
 _____________________________________________________________________________________________________________
-___________________________________________
 0.1 - Inicial
 - Aplicação básicas de formatação de tabelas, intervalos e validação de dados;
 - Construção da base dados inicial;
