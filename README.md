@@ -9,7 +9,14 @@ Há limitações de acesso ao software na construção desse arquivo (utilizaç�
 Resumo de funções utilizadas: ÍNDICE, SE, SEERRO, PROCV, MENOR, DESLOC, CONT.VALORES.
 ________________________________________________________________________________________________________________________________________________________
 
-VERSÃO ATUAL - 1.0
+VERSÃO ATUAL - 1.1
+
+1.1 - Implementação de informações gerais
+
+- Mais mudanças visuais (Clareza na funcionalidade);
+- Inserção de uma resumo de informações gerais do acervo, como número de obras, de autores e editoras; assunto mais comum, autores mais prominentes e etc.
+ - Uso da função SE no caso de coleções para eliminar o "n/a" caso este seja o dado com maior prevalência, mostrando então o segundo valor.
+- Ajuste nas indicações de autoria (exemplo: Coordernadação de NOME ajustado para NOME (coord.)).
 
 1.0 - Acervo funcional
 
