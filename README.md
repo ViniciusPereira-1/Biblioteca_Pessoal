@@ -3,11 +3,20 @@ Aplicação de conceitos de Excel voltada a organização de um acervo pessoal d
 
 Este arquivo é a primeira tentativa do uso conhecimentos básicos e intermediários do Excel, visando uma aplicação prática dentro da BCI.
 A catalogação e classificação aqui utilizadas são simplificadas para fins de prática de ferramentas do excel.
-Há limitações de acesso ao software na construção desse arquivo (utilização apenas do Excel Online disponibilizado para estudantes).
+Há limitações de acesso ao software na construção inicial desse arquivo (utilização apenas do Excel Online disponibilizado para estudantes).
 
 Resumo de funções utilizadas: ÍNDICE, SE, SEERRO, PROCV, MENOR, MAIOR, DESLOC, CONT.VALORES.
 ________________________________________________________________________________________________________________________________________________________
 ### VERSÃO ATUAL
+### **1.2 - Grandes ajustes de funcionalidade**
+
+- A planilha foi atualizada para a versão desktop do Excel 2016.
+  - Agora, os intervalos dinâmicos para a validação de dados são nomeados (seguindo a lógica *bd_*) assim como as tabelas dinâmicas (*td_*). Isto permitiu que fórmulas que referenciavam esse intervalo fossem drasticamente reduzidas, com muito maior visibilidade, funcionalidade e estabilidade.
+  
+- Bugfix na fórmula de ano com menos obras ainda pendente.
+  
+________________________________________________________________________________________________________________________________________________________
+### HISTÓRICO
 ### **1.11 - Ajustes, bugfixes e compatibilidade com o Calc**
 
 - Reformulação da forma de cálculo das informações gerais: agora utiliza as funções MAIOR/MENOR e ÍNDICE para retornar os valores mais presentes, não fazendo referência apenas à célula da tabela dinâmica.
@@ -20,8 +29,6 @@ ________________________________________________________________________________
 - Teste de compatibilidade com Libreoffice Calc -> as tabelas dinâmicas **NÃO** são mais compatíveis, pois o intervalo não acompanha o crescimento da base de dados, inviabilizando a planilha como um todo.
   - A compatibilidade é possível, mas necessita de ajustes (nomeação de intervalo da BD, etc), que são bem diferentes em ambos os softwares.
   
-________________________________________________________________________________________________________________________________________________________
-### HISTÓRICO
 #### **1.1 - Implementação de informações gerais**
 
 - Mais mudanças visuais (Clareza na funcionalidade);
