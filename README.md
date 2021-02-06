@@ -8,15 +8,24 @@ Há limitações de acesso ao software na construção inicial desse arquivo (ut
 Resumo de funções utilizadas: ÍNDICE, SE, SEERRO, PROCV, MENOR, MAIOR, DESLOC, CONT.VALORES.
 ________________________________________________________________________________________________________________________________________________________
 ### VERSÃO ATUAL
+### **1.3 - Implementação de Dashboard**
+
+- A planilha está em processo de implementação de uma Dashboard.
+  - Agora, o quadro "Informações gerais" foi transferido da planilha Consulta para planilha Dashboard.
+  - O menu de navegação foi remodelado para a Dashboard. Todas as planilhas contém um hyperlink de fácil acesso para redirecionamento para a Dashboard.
+
+- A dashboard contém, além das informações gerais: gráficos dinâmicos, botão com Macro para atualização das planilhas dinâmicas, menu de navegação.
+  - A formatação e visibilidade da informação também é muito mais agradável ao usuário.
+  
+________________________________________________________________________________________________________________________________________________________
+### HISTÓRICO
 ### **1.2 - Grandes ajustes de funcionalidade**
 
 - A planilha foi atualizada para a versão desktop do Excel 2016.
   - Agora, os intervalos dinâmicos para a validação de dados são nomeados (seguindo a lógica *bd_*) assim como as tabelas dinâmicas (*td_*). Isto permitiu que fórmulas que referenciavam esse intervalo fossem drasticamente reduzidas, com muito maior visibilidade, funcionalidade e estabilidade.
   
 - Bugfix na fórmula de ano com menos obras ainda pendente.
-  
-________________________________________________________________________________________________________________________________________________________
-### HISTÓRICO
+
 ### **1.11 - Ajustes, bugfixes e compatibilidade com o Calc**
 
 - Reformulação da forma de cálculo das informações gerais: agora utiliza as funções MAIOR/MENOR e ÍNDICE para retornar os valores mais presentes, não fazendo referência apenas à célula da tabela dinâmica.
