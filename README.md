@@ -3,9 +3,11 @@ Aplicação de conceitos de Excel voltada a organização de um acervo pessoal d
 
 Este arquivo é a primeira tentativa do uso conhecimentos básicos e intermediários do Excel, visando uma aplicação prática dentro da BCI.
 A catalogação e classificação aqui utilizadas são simplificadas para fins de prática de ferramentas do excel.
-Há limitações de acesso ao software na construção inicial desse arquivo (utilização apenas do Excel Online disponibilizado para estudantes).
 
-Resumo de funções utilizadas: ÍNDICE, SE, SEERRO, PROCV, MENOR, MAIOR, DESLOC, CONT.VALORES.
+~~Há limitações de acesso ao software na construção inicial desse arquivo (utilização apenas do Excel Online disponibilizado para estudantes).~~
+*Não se aplica desde a versão 1.11.
+
+Resumo de funções utilizadas: ÍNDICE, SE, SEERRO, PROCV, MENOR, MAIOR, DESLOC, CONT.VALORES, Tabelas dinâmicas, Gráficos Dinâmicos, Macro e Hyperlinks.
 ________________________________________________________________________________________________________________________________________________________
 ### VERSÃO ATUAL
 ### **1.3 - Implementação de Dashboard**
