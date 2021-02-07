@@ -7,9 +7,22 @@ A catalogação e classificação aqui utilizadas são simplificadas para fins d
 ~~Há limitações de acesso ao software na construção inicial desse arquivo (utilização apenas do Excel Online disponibilizado para estudantes).~~
 *Não se aplica desde a versão 1.11.*
 
-Resumo de funções utilizadas: ÍNDICE, SE, SEERRO, PROCV, MENOR, MAIOR, DESLOC, CONT.VALORES, Tabelas dinâmicas, Gráficos Dinâmicos, Macro e Hyperlinks.
+Resumo de funções utilizadas: ÍNDICE, SE, SEERRO, PROCV, MENOR, MAIOR, DESLOC, CONT.VALORES, Tabelas dinâmicas, Gráficos Dinâmicos, Macro, VBA Básico e Hyperlinks.
 ________________________________________________________________________________________________________________________________________________________
 ### VERSÃO ATUAL
+### **1.4 - Formulário de Cadastro**
+
+- A Dashboard agora possui mais gráficos dinâmicos.
+
+- A Dashboard agora possui dois botões: 
+  - Atualizar (atualiza todas os dados/tabelas dinâmicas da planilha.)
+  - **Cadastro**: Chama um Forms para inserção de dados na Base de Dados. Isso permite a inserção de dados de maneira mais eficiente. O Forms utiliza uma programação básica em VBA, de fácil compreensão e leitura.
+  
+- O Formulário de Cadastro ainda necessita de melhoriais visuais.
+
+________________________________________________________________________________________________________________________________________________________
+### HISTÓRICO
+
 ### **1.3 - Implementação de Dashboard**
 
 - A planilha está em processo de implementação de uma Dashboard.
@@ -19,8 +32,6 @@ ________________________________________________________________________________
 - A dashboard contém, além das informações gerais: gráficos dinâmicos, botão com Macro para atualização das planilhas dinâmicas, menu de navegação.
   - A formatação e visibilidade da informação também é muito mais agradável ao usuário.
   
-________________________________________________________________________________________________________________________________________________________
-### HISTÓRICO
 ### **1.2 - Grandes ajustes de funcionalidade**
 
 - A planilha foi atualizada para a versão desktop do Excel 2016.
