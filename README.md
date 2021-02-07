@@ -18,7 +18,7 @@ ________________________________________________________________________________
   - Atualizar (atualiza todas os dados/tabelas dinâmicas da planilha.)
   - **Cadastro**: Chama um Forms para inserção de dados na Base de Dados. Isso permite a inserção de dados de maneira mais eficiente. O Forms utiliza uma programação básica em VBA, de fácil compreensão e leitura.
   
-- O Formulário de Cadastro ainda necessita de melhoriais visuais.
+- O Formulário de Cadastro ainda necessita de melhorias visuais.
 
 ________________________________________________________________________________________________________________________________________________________
 ### HISTÓRICO
