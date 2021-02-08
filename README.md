@@ -64,7 +64,7 @@ ________________________________________________________________________________
 #### **1.1 - Implementação de informações gerais**
 
 - Mais mudanças visuais (Clareza na funcionalidade);
-- Inserção de uma resumo de informações gerais do acervo, como número de obras, de autores e editoras; assunto mais comum, autores mais prominentes e etc.
+- Inserção de um resumo de informações gerais do acervo, como número de obras, de autores e editoras; assunto mais comum, autores mais prominentes e etc.
   - Uso da função SE no caso de coleções para eliminar o "n/a" caso este seja o dado com maior prevalência, mostrando então o segundo valor.
 - Ajuste nas indicações de autoria (exemplo: Coordernadação de NOME ajustado para NOME (coord.)).
 
@@ -72,7 +72,6 @@ ________________________________________________________________________________
 
 - Todas as obras foram inseridas.
 - Todas as funções essenciais foram programadas e testadas.
-- Inserção de classificação condicional para os dados incertos na base de dados (contém a expressão (?) ), ressaltando-as através de uma borda vermelha.
 
 #### **0.4 - Validação de Dados**
 
@@ -82,11 +81,9 @@ ________________________________________________________________________________
     
 - Validação de dados com intervalos dinâmicos implementadas (uso das Funções DESLOC e CONT.Valores).
   - Agora as listas suspensas para seleção de título, assunto, autor, país de origem e editora da aba de consultas atualizam automaticamente conforme inserção de novos dados na base de dados. Limite atual de até 5000 linhas, mas facilmente modificável.
-    
-  (Obs: Ainda é necessário que as tabelas dinâmicas sejam atualizadas.)
+   (Obs: Ainda é necessário que as tabelas dinâmicas sejam atualizadas.)
   
 #### **0.3 - Teste de compatibilidade**
-
 - Inserção da consulta por País da Obra Original;
 - Teste de compatibilidade com LibreOffice Calc -> Todas as funções, tabelas dinâmicas e validações estão funcionando 
 corretamente.
