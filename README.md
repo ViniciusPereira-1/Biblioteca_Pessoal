@@ -1,4 +1,4 @@
-# Biblioteca Pessoal - 1.5
+# Biblioteca Pessoal - 1.51
 Aplicação de conceitos de Excel voltada a organização de um acervo pessoal de livros.
 
 Este arquivo é a primeira tentativa do uso conhecimentos básicos e intermediários do Excel, visando uma aplicação prática dentro da BCI.
@@ -10,6 +10,13 @@ A catalogação e classificação aqui utilizadas são simplificadas para fins d
 Resumo de funções utilizadas: ÍNDICE, SE, SEERRO, PROCV, MENOR, MAIOR, DESLOC, CONT.VALORES, Tabelas dinâmicas, Gráficos Dinâmicos, Macro, VBA Básico e Hyperlinks.
 ________________________________________________________________________________________________________________________________________________________
 ### VERSÃO ATUAL
+### **1.51 - Filtros**
+
+- Agora há a possibilidade de filtrar as informações na dashboard.
+- Textos foram alterados para indicar que as informações dispostas se referem a atual seleção.
+
+________________________________________________________________________________________________________________________________________________________
+### HISTÓRICO
 ### **1.5 - Melhorias na Dashboard**
 
 - A Base de Dados agora possui uma nova Coluna: Extensão, que classifica a obra conforme o número de páginas.
@@ -21,8 +28,6 @@ ________________________________________________________________________________
 
 - Bugfix na aba de consultas: alguns campos que estavam com a fórmula ÍNDICE sem a aplicação de fórmula matricial foram corrigidos.
 
-________________________________________________________________________________________________________________________________________________________
-### HISTÓRICO
 ### **1.4 - Formulário de Cadastro**
 
 - A Dashboard agora possui mais gráficos dinâmicos.
