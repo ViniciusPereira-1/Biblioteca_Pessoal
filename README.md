@@ -1,4 +1,4 @@
-# Biblioteca Pessoal - 1.51
+# Biblioteca Pessoal - 1.6
 Aplicação de conceitos de Excel voltada a organização de um acervo pessoal de livros.
 
 Este arquivo é a primeira tentativa do uso conhecimentos básicos e intermediários do Excel, visando uma aplicação prática dentro da BCI.
@@ -10,13 +10,27 @@ A catalogação e classificação aqui utilizadas são simplificadas para fins d
 Resumo de funções utilizadas: ÍNDICE, SE, SEERRO, PROCV, MENOR, MAIOR, DESLOC, CONT.VALORES, Tabelas dinâmicas, Gráficos Dinâmicos, Macro, VBA Básico e Hyperlinks.
 ________________________________________________________________________________________________________________________________________________________
 ### VERSÃO ATUAL
+### **1.6 - Dashboard 2.0**
+
+- A Planilha Dashboard agora tem duas partes:
+  - Painel de controle superior, onde constam as informações gerais, o menu de navegação e cadastro, assim como a de consulta rápida;
+  - A Dashboard propriamente dita, com os gráficos dinâmicos, filtros e disposição de informações de maneira mais visual.
+ 
+
+- Toda a estruturação gráfica da Dashboard foi atualizada.
+  - Os seguintes gráficos foram removidos: Número de Obras por Ano, Número de Obras por idioma (this is a buff);
+  - A visibilidade, riqueza visual e a paleta de cores foram drasticamente melhoradas.
+  - O Painel de Filtro foi reformulado e inserido dentro da área da dashboard.
+  - A Dashboard se encontra  levemente separada do Painel de Superior, sendo possível enquadrá-la com sua totalidade no Zoom Padrão do Excel (100%).
+   
+
+________________________________________________________________________________________________________________________________________________________
+### HISTÓRICO
 ### **1.51 - Filtros**
 
 - Agora há a possibilidade de filtrar as informações na dashboard.
 - Textos foram alterados para indicar que as informações dispostas se referem a atual seleção.
 
-________________________________________________________________________________________________________________________________________________________
-### HISTÓRICO
 ### **1.5 - Melhorias na Dashboard**
 
 - A Base de Dados agora possui uma nova Coluna: Extensão, que classifica a obra conforme o número de páginas.
