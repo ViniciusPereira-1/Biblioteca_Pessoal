@@ -4,12 +4,23 @@ Aplicação de conceitos de Excel voltada a organização de um acervo pessoal d
 Este arquivo é a primeira tentativa do uso conhecimentos básicos e intermediários do Excel, visando uma aplicação prática dentro da BCI.
 A catalogação e classificação aqui utilizadas são simplificadas para fins de prática de ferramentas do excel.
 
-~~Há limitações de acesso ao software na construção inicial desse arquivo (utilização apenas do Excel Online disponibilizado para estudantes).~~
-*Não se aplica desde a versão 1.11.*
-
 Resumo de funções utilizadas: ÍNDICE, SE, SEERRO, PROCV, MENOR, MAIOR, DESLOC, CONT.VALORES, Tabelas dinâmicas, Gráficos Dinâmicos, Macro, VBA Básico e Hyperlinks.
+
+
+
+## Estruturação de nomeação de Intervalos:
+
+*bd_Main* -> Refere-se a Base de Dados em sua totalidade.
+
+*td_XXXX* -> Intervalo das tabelas dinâmicas (ambas as colunas).
+
+*bd_XXXX* -> Intervalo dinâmico dos valores preenchidos das tabelas dinâmicas (1a coluna apenas, isto é, os rótulos).
+
+*seg_XXXX* -> Refere-se às segmentações de dados.
+
+*macro_XXXX* -> Refere-se às macros.
 ________________________________________________________________________________________________________________________________________________________
-### VERSÃO ATUAL
+# VERSÃO ATUAL
 ### **1.61 - Melhorias na Dashboard**
 
 *Referentes à Dashboard*
