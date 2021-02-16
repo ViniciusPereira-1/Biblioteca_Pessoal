@@ -20,7 +20,7 @@ Resumo de funções utilizadas: ÍNDICE, SE, SEERRO, PROCV, MENOR, MAIOR, DESLOC
 
 *macro_XXXX* -> Refere-se às macros.
 ________________________________________________________________________________________________________________________________________________________
-# VERSÃO ATUAL
+# VERSÃO FINAL
 ### **1.61 - Melhorias na Dashboard**
 
 *Referentes à Dashboard*
