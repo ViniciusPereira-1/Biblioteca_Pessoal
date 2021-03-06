@@ -20,7 +20,14 @@ Resumo de funções utilizadas: ÍNDICE, SE, SEERRO, PROCV, MENOR, MAIOR, DESLOC
 
 *macro_XXXX* -> Refere-se às macros.
 ________________________________________________________________________________________________________________________________________________________
-# VERSÃO FINAL
+# VERSÃO ATUAL
+### **1.62 - Bugfixes**
+
+- Botão de "Resetar Filtros" corrigido. O nome das segmentações de dados na fórmula da Macro estavam incorretas.
+    
+
+________________________________________________________________________________________________________________________________________________________
+### HISTÓRICO
 ### **1.61 - Melhorias na Dashboard**
 
 *Referentes à Dashboard*
@@ -31,17 +38,13 @@ ________________________________________________________________________________
 *Referentes à pasta de trabalho*
  - Foram inseridas funções SEERRO para todas as fórmulas do painel de controle, melhorando a visibilidade em caso de aplicação de filtros que não possuem resultados.
  - Foi criada uma planilha de Tabelas de Apoio, onde seram inseridas planilhas não-dinâmicas auxiliares.
-    
-
-________________________________________________________________________________________________________________________________________________________
-### HISTÓRICO
+ - 
 ### **1.6 - Dashboard 2.0**
 
 - A Planilha Dashboard agora tem duas partes:
   - Painel de controle superior, onde constam as informações gerais, o menu de navegação e cadastro, assim como a de consulta rápida;
   - A Dashboard propriamente dita, com os gráficos dinâmicos, filtros e disposição de informações de maneira mais visual.
  
-
 - Toda a estruturação gráfica da Dashboard foi atualizada.
   - Os seguintes gráficos foram removidos: Número de Obras por Ano, Número de Obras por idioma (this is a buff);
   - A visibilidade, riqueza visual e a paleta de cores foram drasticamente melhoradas.
