@@ -1,4 +1,4 @@
-# Biblioteca Pessoal - 1.61
+# Biblioteca Pessoal - 1.62
 Aplicação de conceitos de Excel voltada a organização de um acervo pessoal de livros.
 
 Este arquivo é a primeira tentativa do uso conhecimentos básicos e intermediários do Excel, visando uma aplicação prática dentro da BCI.
